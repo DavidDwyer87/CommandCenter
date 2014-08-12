@@ -1,0 +1,13 @@
+c:\users\jarvis\documents\visual studio 2013\Projects\TabberService\TabberService\bin\TabberService.dll.config
+c:\users\jarvis\documents\visual studio 2013\Projects\TabberService\TabberService\bin\TabberService.dll
+c:\users\jarvis\documents\visual studio 2013\Projects\TabberService\TabberService\bin\TabberService.pdb
+c:\users\jarvis\documents\visual studio 2013\Projects\TabberService\TabberService\bin\EntityFramework.dll
+c:\users\jarvis\documents\visual studio 2013\Projects\TabberService\TabberService\bin\EntityFramework.SqlServer.dll
+c:\users\jarvis\documents\visual studio 2013\Projects\TabberService\TabberService\bin\EntityFramework.xml
+c:\users\jarvis\documents\visual studio 2013\Projects\TabberService\TabberService\bin\EntityFramework.SqlServer.xml
+c:\users\jarvis\documents\visual studio 2013\Projects\TabberService\TabberService\obj\Debug\TabberService.csprojResolveAssemblyReference.cache
+c:\users\jarvis\documents\visual studio 2013\Projects\TabberService\TabberService\obj\Debug\TabberService.dll
+c:\users\jarvis\documents\visual studio 2013\Projects\TabberService\TabberService\obj\Debug\TabberService.pdb
+c:\users\jarvis\documents\visual studio 2013\Projects\TabberService\TabberService\obj\Debug\TabberService.Migrations.init.resources
+c:\users\jarvis\documents\visual studio 2013\Projects\TabberService\TabberService\obj\Debug\TabberService.csproj.GenerateResource.Cache
+c:\users\jarvis\documents\visual studio 2013\Projects\TabberService\TabberService\obj\Debug\TabberService.Migrations.datechange.resources
